@@ -1,6 +1,6 @@
-# [Crypto Coin Blockchain](http://placeinuk.com/blockchain/)
+# [Crypto Coin Blockchain](http://placeinuk.info/blockchain/)
 
-LIVE DEMO: [http://placeinuk.com/blockchain/](http://placeinuk.com/blockchain/)
+LIVE DEMO: [http://placeinuk.info/blockchain/](http://placeinuk.info/blockchain/)
 
 [![Join the chat at https://gitter.im/designmodo/Flat-UI](https://badges.gitter.im/designmodo/Flat-UI.svg)](https://gitter.im/designmodo/Flat-UI?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![CDNJS](https://img.shields.io/cdnjs/v/flat-ui.svg)](https://cdnjs.com/libraries/flat-ui/)
